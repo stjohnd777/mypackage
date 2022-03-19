@@ -1,0 +1,22 @@
+{
+  "name": "iseven",
+  "version": "1.0.0",
+  "description": "is number even",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stjohnd777/mypackage.git"
+  },
+  "keywords": [
+    "even"
+  ],
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stjohnd777/mypackage/issues"
+  },
+  "homepage": "https://github.com/stjohnd777/mypackage#readme"
+}
